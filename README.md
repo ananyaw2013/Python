@@ -1,1 +1,1 @@
-# Python-8-Queen
+# Python-8-Queen Challenge
